@@ -12,3 +12,6 @@
 /composer.phar
 /app/cache/
 /app/logs/
+/src/CvBundle/Resources/public/.sass-cache/
+Supprimerait src/CvBundle/Entity/
+Supprimerait src/CvBundle/Repository/
